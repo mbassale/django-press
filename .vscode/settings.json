@@ -8,5 +8,14 @@
         }
     ],
     "sqltools.useNodeRuntime": true,
-    "python.pythonPath": "/home/mbassale/dev/django/django3-by-example/venv/bin/python"
+    "python.pythonPath": "/home/mbassale/dev/django/django3-by-example/venv/bin/python",
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.snippetSuggestions": "top",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+        "razor": "html",
+        "django-html": "html",
+        "plaintext": "pug"
+    }
 }

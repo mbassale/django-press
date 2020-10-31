@@ -7,5 +7,6 @@
             "database": "${workspaceFolder:djangopress}/db.sqlite3"
         }
     ],
-    "sqltools.useNodeRuntime": true
+    "sqltools.useNodeRuntime": true,
+    "python.pythonPath": "/home/mbassale/dev/django/django3-by-example/venv/bin/python"
 }
